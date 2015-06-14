@@ -1,5 +1,7 @@
 # NextTuesday.js
 
+[![Build Status](https://travis-ci.org/ktornwall/next-tuesday-js.svg?branch=master)](https://travis-ci.org/ktornwall/next-tuesday-js)
+
 A Javascript library for parsing dates using natural language, like "Next
 Tuesday".
 
