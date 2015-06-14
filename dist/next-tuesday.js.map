@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;qBAAe;AACb,WAAS,EAAC,mBAAC,IAAI,EAAE,EAEhB;;AAED,eAAa,EAAC,uBAAC,QAAQ,EAAE,EAExB;CACF","file":"next-tuesday.js","sourcesContent":["export default {\n  parseDate (date) {\n\n  },\n\n  parseDateTime (datetime) {\n\n  }\n};\n"],"sourceRoot":"/source/"}
